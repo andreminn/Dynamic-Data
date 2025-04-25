@@ -15,6 +15,7 @@ df = pd.read_csv("DAX40.csv")
 
 
 print(df['Ticker'])
+print("Test")
 tickers = df['Ticker']
 
 
